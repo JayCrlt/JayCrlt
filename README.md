@@ -13,5 +13,5 @@ I am a post-doctoral fellow with the [Laboratoire d'Océanographie de Villefranc
 
 * :house_with_garden: **Location**: `Villefranche sur Mer (France)` `Ischia (Italy)`
 * :books: **Research topics**: [`functional ecology`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=functional+ecology&btnG=) [`benthic communities`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=benthic+communities&btnG=) [`global change`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=global+change&btnG=) [`quantitative ecology`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=quantitative+ecology&btnG=)
-* :earth_africa: **Ecosystem**: `Mediterranean sea` `coral reefs` `marine forests` 
+* :earth_africa: **Ecosystem**: `mediterranean sea` `coral reefs` `marine forests` 
 * :computer: **Tools**: `R`
