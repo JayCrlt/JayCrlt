@@ -3,7 +3,7 @@
 ---
 
 [![GitHub Follow](https://img.shields.io/github/followers/JayCrlt?label=Github&style=social)](https://github.com/JayCrlt)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Jerem_Carlot?label=Twitter&style=social)](https://twitter.com/Jerem_Carlot)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jerem_carlot?style=social)](https://twitter.com/Jerem_Carlot)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109314030532016433?domain=https%3A%2F%2Fecoevo.social&style=social)](https://ecoevo.social/@JeremCarlot)
 
 I am a post-doctoral fellow with the [Laboratoire d'Océanographie de Villefranche sur mer](https://lov.imev-mer.fr/web/) at [IMEV](https://www.imev-mer.fr/web/) in France. I am mostly interested in measuring the physiological traits of benthic organisms (e.g., calcification, gross and net photosynthesis) to quantify how the ecosystem functioning is changing in the face of global change. My works involve a combination of fieldwork, in situ and ex-situ experiments, and advanced statistical modeling across local and large spatial scales.
