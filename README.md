@@ -3,7 +3,7 @@
 ---
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://jaycrlt.github.io)
-[![Bluesky Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white))](https://bsky.app/profile/jerem-carlot.bsky.social)
+[![Bluesky Badge](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/jerem-carlot.bsky.social)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat)](https://ecoevo.social/@JeremCarlot)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=flat)](https://scholar.google.com/citations?user=Eotjew0AAAAJ&hl=en&oi=sra)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-0CB?logo=researchgate&logoColor=fff&style=flat)](https://www.researchgate.net/profile/Jeremy-Carlot)
