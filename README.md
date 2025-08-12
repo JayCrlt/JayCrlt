@@ -9,9 +9,9 @@
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-0CB?logo=researchgate&logoColor=fff&style=flat)](https://www.researchgate.net/profile/Jeremy-Carlot)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=flat)](https://orcid.org/0000-0003-0887-8005)
 
-I am a post-doctoral fellow with the [Spanish Institute of Oceanography – Balearic Oceanographic Center](http://www.ba.ieo.es) at [CSIC](https://www.csic.es/en) in Spain. I am mostly interested in measuring the physiological traits of marine organisms (e.g., calcification or net photosynthesis for benthic organisms, nutrients uptake for fish) to quantify how the ecosystem functioning is changing in the face of global change. My works involve a combination of fieldwork, in situ and ex-situ experiments, and advanced statistical modeling across local and large spatial scales.
+I am a post-doctoral fellow with the [Institut de Ciences del Mar (ICM)](https://www.icm.csic.es/es) at [CSIC](https://www.csic.es/en) in Spain. I am mostly interested in measuring the physiological traits of marine organisms (e.g., calcification or net photosynthesis for benthic organisms, nutrients uptake for fish) to quantify how the ecosystem functioning is changing in the face of global change. My works involve a combination of fieldwork, in situ and ex-situ experiments, and advanced statistical modeling across local and large spatial scales.
 
-* :house_with_garden: **Location**: `Palma de Mallorca (Spain)`
+* :house_with_garden: **Location**: `Palma de Mallorca (Spain)` `Barcelona (Spain)`
 * :books: **Research topics**: [`functional ecology`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=functional+ecology&btnG=) [`benthic communities`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=benthic+communities&btnG=) [`global change`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=global+change&btnG=) [`quantitative ecology`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=quantitative+ecology&btnG=)
 * :earth_africa: **Ecosystem**: `marine temperate reefs` `marine tropical reefs` 
 * :computer: **Tools**: `R`
